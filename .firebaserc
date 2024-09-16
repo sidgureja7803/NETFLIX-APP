@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "netflix-gpt-c9d90",
+    "staging": "netflix-gpt-c9d90"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
